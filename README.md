@@ -5,14 +5,7 @@
 <h1 align="center">Hi 👋,Welcome to my Github profile</h1>
 <h3 align="center">I'm Anas Ahmed , a 23 years old web developer from Pakistan.</h3>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=anasahmed2&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+ 
 <h2 align="left">👨‍💻About Me:</h2>
 
 - 🌱 I’m currently learning **JavaScript and ReactJS soon.**
@@ -42,9 +35,11 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
-
-<br/>  
+  <br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=anasahmed2&&style=flat-square" align="center" />
+</div>  
+<br/> 
 
 <h2 align="center">🏆My Github stats and Trophies:</h2>
 
