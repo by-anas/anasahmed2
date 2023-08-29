@@ -42,7 +42,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" /></p> -->
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" width="65%" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" width="600" />
 </div>
 <br/>
 <div align="center">
