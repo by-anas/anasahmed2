@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Welcome to my Github profile</h1>
+<div align="center">
+<img src="https://raw.githubusercontent.com/anasahmed2/anasahmed2/main/headergitlight.gif" align="center" height="325" />
+</div>  
+
+<h1 align="center">Hi 👋,Welcome to my Github profile</h1>
 <h3 align="center">I'm Anas Ahmed , a 23 years old web developer from Pakistan.</h3>
 
 <h2 align="left">👨‍💻About Me:</h2>
@@ -20,11 +24,35 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="64" height="64"/>
 </p>
+<br/>  
 
-<h2 align="left">🏆My Github stats and Trophies:</h2>
+<div align="center">
+<a href="https://github.com/anasahmed2" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+<a href="https://linkedin.com/in/anasahmed2" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact" alt="anasahmed2" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anasahmed2&show_icons=true&locale=en" alt="anasahmed2" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" /></p>
+<br/>  
+
+<h2 align="center">🏆My Github stats and Trophies:</h2>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" /></p> -->
+<div align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" width="65%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&count_private=true&border=true" alt="anasahmed2" align="center" />
+</div>
+<br/>
+<div align="center">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact" alt="anasahmed2" align="center" />
+</div>
+<br/>
 
 <h3 align="center">Checkout the repositories below 👇</h3>
+
