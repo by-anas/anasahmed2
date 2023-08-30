@@ -37,7 +37,7 @@
 </div>  
   <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=anasahmed2&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=anasahmed2&&style=flat-square&style=for-the-badge&logo=linkedin&logoColor=white" align="center" />
 </div>  
 <br/> 
 
