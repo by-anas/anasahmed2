@@ -49,13 +49,12 @@
 </div>
 <br/>
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&count_private=true&border=true&show_icons=true&theme=transparent" alt="anasahmed2" align="center" /> -->
  <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&theme=gotham&count_private=true&border=true&bg_color=3c404300" alt="anasahmed2" align="center" />
 
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent" alt="anasahmed2" align="center" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact&theme=gotham&bg_color=3c404300" alt="anasahmed2" align="center" />
 </div>
 <br/>
 
