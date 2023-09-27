@@ -48,16 +48,16 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&" alt="anasahmed2" /></p> -->
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&theme=gotham&border=true&border_radius=5.1&background=transparent" alt="anasahmed2" width="600" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasahmed2&theme=radical&border=true&border_radius=5.1&background=transparent" alt="anasahmed2" width="600" />
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&theme=gotham&count_private=true&border=true&bg_color=3c404300" alt="anasahmed2" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=anasahmed2&show_icons=true&theme=radical&count_private=true&border=true&bg_color=3c404300" alt="anasahmed2" align="center" />
 
 </div>
 <br/>
 <div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact&theme=gotham&bg_color=3c404300" alt="anasahmed2" align="center" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anasahmed2&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=3c404300" alt="anasahmed2" align="center" />
 </div>
 <br/>
 
