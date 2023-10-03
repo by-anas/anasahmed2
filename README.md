@@ -2,15 +2,15 @@
 <img src="https://raw.githubusercontent.com/anasahmed2/anasahmed2/main/headergitlight.gif" align="center" height="325" />
 </div>  
 
-<h1 align="center">Hi 👋,Welcome to my Github profile</h1>
-<h3 align="center">I'm Anas Ahmed , a 23 years old web developer from Pakistan.</h3>
+<h1 align="center">Welcome to my Github profile</h1>
+<h3 align="center">Hi 👋, I'm Anas Ahmed, a 23 years old web developer from Pakistan.</h3>
 
  
 <h2 align="left">👨‍💻About Me:</h2>
 
-- 🌱 I’m currently learning **JavaScript and ReactJS soon.**
+- 🌱 I’m currently learning **mongoDb NextJS and React Native soon.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap & JS.**
+- 💬 Ask me about **HTML, CSS, Bootstrap ,Javascript, React, NodeJS, ExpressJS**
 
 - 📫 How to reach me **muhammadanas6122@gmail.com**
 
@@ -24,6 +24,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="64" height="64"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="64" height="64"/>
 </p>
 <br/>  
 
