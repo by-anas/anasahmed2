@@ -22,7 +22,7 @@
 
 <h2 align="center">🎓Languages and Tools:</h2>
 
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="68" height="68"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="68" height="68"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="68" height="68"/>
@@ -53,9 +53,7 @@
  <a href="https://www.facebook.com/profile.php?id=100075532658872" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%231877f2.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.instagram.com/anas_ahmed.xx/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23890afd.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+  
 </div>  
 
   <br/>  
