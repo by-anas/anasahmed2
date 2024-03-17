@@ -5,29 +5,42 @@
 <h1 align="center">Welcome to my Github profile</h1>
 <h3 align="center">Hi 👋, I'm Anas Ahmed, a 23 years old web and mobile application developer from Pakistan.</h3>
 
+<br/>  
  
-<h2 align="left">👨‍💻About Me:</h2>
+<h2 align="center">👨‍💻About Me:</h2>
+<div align="center">
+ 
+ 🌱 I’m currently learning **NodeJs , Express , MongoDB and GraphQL soon.**
 
-- 🌱 I’m currently learning **NodeJs , Express , MongoDB and GraphQL soon.**
+ 💬 Ask me about **HTML, CSS, Bootstrap ,Javascript, React, NextJS**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap ,Javascript, React, NextJS**
+📫 How to reach me **muhammadanas6122@gmail.com**
+⚡ Fun fact **I learn and adapt quickly.**
 
-- 📫 How to reach me **muhammadanas6122@gmail.com**
+</div>
+<br/>  
 
-- ⚡ Fun fact **I learn and adapt quickly.**
-
-
-<h2 align="left">🎓Languages and Tools:</h2>
+<h2 align="center">🎓Languages and Tools:</h2>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="64" height="64"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="64" height="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="68" height="68"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="68" height="68"/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="68" height="68"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="68" height="68"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="68" height="68"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="68" height="68"/>
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="68" height="68"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="68" height="68"/> 
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="68" height="68"/> 
+
+
+
+
+ 
 </p>
 <br/>  
 <div align="center">
